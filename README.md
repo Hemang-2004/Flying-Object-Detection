@@ -30,7 +30,7 @@ Ensure you have Python installed. Install the required dependencies with:
 pip install ultralytics torch torchvision
 ```
 
-##GPU SET UP make sure torch is present
+## GPU SET UP make sure torch is present
 ```bash
 import torch
 torch.cuda.is_available()
