@@ -1,9 +1,3 @@
-
-I understand you're looking for the full README code in Markdown format for your project. Here's the complete code without interruptions:
-
-markdown
-Copy
-Edit
 # Real-Time Flying Object Detection with YOLOv8
 
 ## Overview
