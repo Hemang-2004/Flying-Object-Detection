@@ -8,7 +8,7 @@ This repository demonstrates real-time flying object detection using **YOLOv8**.
 ## What's Included
 - Jupyter notebook for performing inference on custom source files.
 - Two pre-trained models:
-  - **Generalized Model**: Trained on 40 classes of flying objects.
+  - **Generalized Model**: Trained on 40 classes of flying objects. 
   - **Refined Model**: Focused on detecting 3 specific classes of flying objects.
 - LaTeX files for the official research paper.
 - Example video demonstrating inference with the generalized model.
